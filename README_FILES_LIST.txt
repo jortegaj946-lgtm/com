@@ -1,0 +1,11 @@
+Archivos incluidos (ejemplos principales):
+- package.json
+- vite.config.js
+- public/index.html
+- src/main.jsx
+- src/App.jsx
+- src/index.css
+- src/components/Editor.jsx
+- tailwind.config.cjs
+- postcss.config.cjs
+- README.md
